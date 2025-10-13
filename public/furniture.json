@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "name": "Modern Wooden Chair",
+    "category": "Chair",
+    "price": 120,
+    "material": "Oak Wood",
+    "dimensional": "45x45x90 cm",
+    "stock": 30,
+    "image": "https://i.ibb.co.com/Z6JnNz3p/939fedab67b5d92976120c57bd2423f5.jpg",
+    "description": "Handcrafted oak wood chair with ergonomic design and smooth finish."
+  },
+  {
+    "id": 2,
+    "name": "Luxury Leather Sofa",
+    "category": "Sofa",
+    "price": 950,
+    "material": "Genuine Leather & Hardwood frame",
+    "dimensional": "200x85x90 cm",
+    "stock": 8,
+    "image": "https://i.ibb.co.com/x8c0h7jy/ca32da64aa87286f2e337f784d464bb6.jpg",
+    "description": "Elegant leather sofa with sturdy internal frame and plush cushions."
+  },
+  {
+    "id": 3,
+    "name": "Classic Coffee Table",
+    "category": "Table",
+    "price": 210,
+    "material": "Teak Wood",
+    "dimensional": "100x60x45 cm",
+    "stock": 15,
+    "image": "https://i.ibb.co.com/KcjRdGhT/b1f15ea9f34cf15972318a0ea34e58ea.jpg",
+    "description": "Solid teak wood coffee table perfect for living rooms."
+  },
+  {
+    "id": 4,
+    "name": "Modern Bookshelf",
+    "category": "Shelf",
+    "price": 340,
+    "material": "Engineered Wood",
+    "dimensional": "120x30x180 cm",
+    "stock": 12,
+    "image": "https://i.ibb.co.com/qMZVh6Z7/d0438a2f138e584c967dbadfbce7619a.jpg",
+    "description": "Five-tier open bookshelf for books and decor items."
+  },
+  {
+    "id": 5,
+    "name": "Dining Table Set (6 Chairs)",
+    "category": "Dining",
+    "price": 970,
+    "material": "Solid Mahogany",
+    "dimensional": "220x100x75 cm",
+    "stock": 8,
+    "image": "https://i.ibb.co.com/1cmsdGv/b5331c2c3affefc9e3f180e5a058a0d1.jpg",
+    "description": "Spacious dining set with six matching chairs."
+  },
+  {
+    "id": 6,
+    "name": "King Size Bed Frame",
+    "category": "Bed",
+    "price": 1150,
+    "material": "Rosewood",
+    "dimensional": "210x180x100 cm",
+    "stock": 5,
+    "image": "https://i.ibb.co.com/4RkX7sTR/83a4fd46ec83616eb6e4c8f6ff7b825c.jpg",
+    "description": "Sturdy king-size bed frame with a sleek headboard."
+  },
+  {
+    "id": 7,
+    "name": "Minimalist Side Table",
+    "category": "Side Table",
+    "price": 80,
+    "material": "Metal & Wood",
+    "dimensional": "40x40x50 cm",
+    "stock": 40,
+    "image": "https://i.ibb.co.com/gLKv4qm2/3da70535d06b76f969eb032fb8242bfe.jpg",
+    "description": "Compact side table combining metal legs and wooden top."
+  },
+  {
+    "id": 8,
+    "name": "Accent Armchair",
+    "category": "Chair",
+    "price": 220,
+    "material": "Fabric Upholstery & Pine Wood",
+    "dimensional": "70x70x85 cm",
+    "stock": 20,
+    "image": "https://i.ibb.co.com/9mQbXrzs/f68b2739e546c046c31f64d4e483244c.jpg",
+    "description": "Comfortable armchair with stylish fabric and cushioning."
+  },
+  {
+    "id": 9,
+    "name": "TV Entertainment Unit",
+    "category": "Cabinet",
+    "price": 450,
+    "material": "MDF & Veneer",
+    "dimensional": "150x40x60 cm",
+    "stock": 10,
+    "image": "https://i.ibb.co.com/Y4d93C0D/2d911f2d9e8b0c7d0d6f62d717235fc8.jpg",
+    "description": "Media console with storage drawers and cable routing."
+  },
+  {
+    "id": 10,
+    "name": "Recliner Sofa Chair",
+    "category": "Chair",
+    "price": 300,
+    "material": "PU Leather & Steel Frame",
+    "dimensional": "80x90x100 cm",
+    "stock": 7,
+    "image": "https://i.ibb.co.com/zWdg9bbS/5b72efaa7f933ab49c492484804faa17.jpg",
+    "description": "Reclining chair with footrest and padded seating."
+  },
+  {
+    "id": 11,
+    "name": "Writing Desk",
+    "category": "Desk",
+    "price": 260,
+    "material": "Solid Wood & Metal Legs",
+    "dimensional": "120x60x75 cm",
+    "stock": 14,
+    "image": "https://i.ibb.co.com/JFz2x8g0/86b55b541c985d80db52d6152245b9b4.jpg",
+    "description": "Stylish desk for study or home office with drawer storage."
+  },
+  {
+    "id": 12,
+    "name": "Corner Display Shelf",
+    "category": "Shelf",
+    "price": 180,
+    "material": "Plywood & Laminate",
+    "dimensional": "60x30x150 cm",
+    "stock": 18,
+    "image": "https://i.ibb.co.com/m50K7C7B/196820acbd4aeac3fcc19ab0d5651378.jpg",
+    "description": "Space-saving corner shelf for decorative items."
+  },
+  {
+    "id": 13,
+    "name": "Drawer Chest",
+    "category": "Cabinet",
+    "price": 320,
+    "material": "Solid Oak",
+    "dimensional": "80x45x100 cm",
+    "stock": 9,
+    "image": "https://i.ibb.co.com/Z6ZN8YcP/Drawer-Chest.jpg",
+    "description": "Four-drawer chest with soft-close mechanism."
+  },
+  {
+    "id": 14,
+    "name": "Bar Stool (Set of 2)",
+    "category": "Stool",
+    "price": 140,
+    "material": "Metal & Faux Leather",
+    "dimensional": "45x45x75 cm",
+    "stock": 20,
+    "image": "https://i.ibb.co.com/XfJz3NDc/29387f6e5af463c87f482213984cbc18.jpg",
+    "description": "Modern bar stool pair with adjustable height."
+  },
+  {
+    "id": 15,
+    "name": "Outdoor Garden Bench",
+    "category": "Bench",
+    "price": 200,
+    "material": "Teak & Wrought Iron",
+    "dimensional": "120x50x90 cm",
+    "stock": 6,
+    "image": "https://i.ibb.co.com/Kz2KWJhc/288a9a828f50365a5bf66b43476d9b2a.jpg",
+    "description": "Weather-resistant bench suitable for gardens or patios."
+  },
+  {
+    "id": 16,
+    "name": "Folding Dining Chair",
+    "category": "Chair",
+    "price": 65,
+    "material": "Steel Frame & Fabric Seat",
+    "dimensional": "45x45x90 cm (folded: 45x5x90)",
+    "stock": 50,
+    "image": "https://i.ibb.co.com/7tFtC992/2d77fc8d0db679e671335419f5763206.jpg",
+    "description": "Convenient folding chair for extra seating, easy to store."
+  }
+]
