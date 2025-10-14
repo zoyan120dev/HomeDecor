@@ -8,7 +8,7 @@ const useProducts = () => {
 
   useEffect(() => {
     setLoading(true);
-    axios('./furniture.json')
+    axios('../furniture.json')
       .then(res => setProducts(res.data))
       .catch(err => setError(err))
       .finally(() => setLoading(false));

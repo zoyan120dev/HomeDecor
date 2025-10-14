@@ -4,6 +4,7 @@ import Root from "../Layouts/Root";
 import Error from "../pages/Err/Error";
 import Products from "../pages/Products";
 import WIshlist from "../pages/WIshlist";
+import ProductDaitlsPage from "../pages/ProductDaitlsPage";
 
 const router = createBrowserRouter([
   {
@@ -26,6 +27,11 @@ const router = createBrowserRouter([
         path: "/wishlist",
         element: <WIshlist/>,
       },
+
+      {
+        path:'/product/:id',
+        element:<ProductDaitlsPage/>
+      }
     ],
   },
   

@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router";
 
 function ProductCard({ product }) {
   const {
@@ -10,6 +11,7 @@ function ProductCard({ product }) {
     stock,
     image,
     description,
+    id
   } = product;
   return (
     <>
@@ -30,7 +32,7 @@ function ProductCard({ product }) {
             Price: ${price}
           </p>
           <div className="card-actions justify-end">
-            <button className="btn btn-primary">Buy Now</button>
+            <Link  to={`/product/${id}`} className="btn btn-outline">Buy Now</Link>
           </div>
         </div>
       </div>
