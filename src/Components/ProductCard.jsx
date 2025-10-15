@@ -32,7 +32,7 @@ function ProductCard({ product }) {
             Price: ${price}
           </p>
           <div className="card-actions justify-end">
-            <Link  to={`/product/${id}`} className="btn btn-outline">Buy Now</Link>
+            <Link  to={`/product/${id}`} className="btn btn-outline">View Details</Link>
           </div>
         </div>
       </div>
